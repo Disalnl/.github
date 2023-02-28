@@ -1,4 +1,3 @@
-# .github
 ![Disal](https://user-images.githubusercontent.com/104503492/221815283-649f651d-fdd5-4a3e-af81-3b6ab268af54.png)
 
 
