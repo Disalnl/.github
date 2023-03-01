@@ -3,8 +3,8 @@
 
 English (EN)
 
-Disal is a Dutch IT company with experience in PHP laravel, html, css, C# and other technologies finishing multiple projects the past years. We build, connect to the right IT solutions and integrates information systems to meet the company’s needs, currently we are working on multiple projects involving PHP, laravel and C#.
+Disal is a Dutch IT company with experience in PHP laravel, html, css, C# and other technologies. Finishing multiple projects the past years, we build, connect to the right IT solutions and integrates information systems to meet the company’s needs, currently we are working on multiple projects involving PHP, laravel and C#.
 
-Dutch (NL)
+Nederlands (NL)
 
-Disal is een Nederlands IT-bedrijf met ervaring in PHP laravel, html, css, C# en andere technologieën die de afgelopen jaren meerdere projecten hebben afgerond. We bouwen, verbinden met de juiste IT-oplossingen en integreren informatiesystemen om aan de behoeften van het bedrijf te voldoen. Momenteel werken we aan meerdere projecten met PHP, laravel en C#.
+Disal is een Nederlands IT-bedrijf met ervaring in PHP laravel, html, css, C# en andere technologieën. De afgelopen jaren hebben we meerdere projecten hebben afgerond. We bouwen, verbinden met de juiste IT-oplossingen en integreren informatiesystemen om aan de behoeften van het bedrijf te voldoen. Momenteel werken we aan meerdere projecten met PHP, laravel en C#.
